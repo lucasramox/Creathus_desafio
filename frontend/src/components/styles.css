@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+    max-width: 1180px;
+    padding: 0 30px;
+    margin: 32px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+}
+
+.pagionation {
+    display: flex;
+    background-color: #0000;
+}
