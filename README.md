@@ -10,6 +10,8 @@
 * Reactjs
 * Boostrap
 * Mysql
+* Xampp
+
 
 
 # Execução do projeto
