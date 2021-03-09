@@ -20,6 +20,3 @@
         
     * Na pasta frontend, rode o comando no terminal "npm install && npm start"
 
-# Acesso ao sistema
-
-Entre no link http://localhost:3000
